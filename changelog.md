@@ -10,3 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added changelog.md
+
+### Removed
+
+- Removed files: arquivo.txt, arquivo2.txt and .arquivo2.txt
